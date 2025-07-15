@@ -1,4 +1,4 @@
-# Amazon-Analysis-using-python
+
 # 📊 Amazon Analysis Using Python
 
 A Python project focused on analyzing Amazon product data to extract insights, visualize trends, and support data-driven decision making.
